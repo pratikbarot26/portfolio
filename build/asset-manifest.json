@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c12753a.css",
+    "main.js": "/static/js/main.e5cd7b87.js",
+    "static/media/Pratik.jpg": "/static/media/Pratik.c1008560f98c013f9459.jpg",
+    "index.html": "/index.html",
+    "main.6c12753a.css.map": "/static/css/main.6c12753a.css.map",
+    "main.e5cd7b87.js.map": "/static/js/main.e5cd7b87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c12753a.css",
+    "static/js/main.e5cd7b87.js"
+  ]
+}
