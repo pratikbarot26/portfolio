@@ -22,13 +22,9 @@ export const Introduction = () => {
             <div className="introduction_datacontainer">
 
             <h4>
-            Hi, I’m Pratik Mukesh Barot — a data engineer and analytics professional passionate about turning raw data into scalable, meaningful solutions.
-I recently earned my Master’s in Information Systems from Syracuse University, along with a Certificate of Advanced Study in Data Science. I also hold a Bachelor’s degree in Electronics Engineering from the University of Mumbai. My academic and professional journey bridges the worlds of data infrastructure, automation, and business intelligence.
-With over 3 years of hands-on experience in data engineering, I’ve built high-volume ETL pipelines, automated reporting systems, and designed efficient workflows using tools like Apache Spark, Hive, Kafka, and Autosys. I work comfortably across cloud platforms like AWS and Azure, and rely heavily on Python and SQL to drive data transformation, analysis, and workflow automation.
-Whether it’s constructing batch processing pipelines, optimizing legacy data systems, or visualizing insights through Tableau and Power BI, I’m driven by the impact of well-engineered data solutions. I also enjoy collaborating with cross-functional teams, documenting processes in Confluence, and delivering results that align with both technical and business goals.
-Naturally curious and solution-focused, I see data as a canvas for engineering, exploration, and innovation.
-Excited to collaborate, create, and engineer what’s next.
-Always building with purpose—if you are too, let’s connect.
+            Hi, I’m Pratik Mukesh Barot — a data engineer and analytics professional passionate about transforming raw data into scalable, meaningful solutions. I recently earned my MS in Information Systems from Syracuse University, alongside a Certificate of Advanced Study in Data Science.
+From constructing batch pipelines and optimizing legacy systems to visualizing insights, I’m driven by the impact of well-engineered data solutions. I thrive in collaborative environments, document thoroughly, and align my work with both technical and business goals.
+Naturally curious and solution-focused, I see data as a canvas for engineering, exploration, and innovation. Let’s connect if you're building with purpose too.
             </h4>
               
 
